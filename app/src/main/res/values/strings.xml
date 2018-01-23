@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sinti Scanner</string>
+    <string-array name="days">
+        <item>Day1</item>
+        <item>Day2</item>
+        <item>Day3</item>
+    </string-array>
+</resources>
